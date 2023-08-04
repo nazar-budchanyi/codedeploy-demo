@@ -1,0 +1,6 @@
+version: 0.0
+os     : Windows
+# os     : Linux
+files:
+  - source : \
+    distination: C:\inetpub\wwwroot
